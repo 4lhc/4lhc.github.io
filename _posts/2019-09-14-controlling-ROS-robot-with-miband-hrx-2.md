@@ -153,7 +153,7 @@ if __name__ == "__main__":
 
 ### 3 Test Run
 
-{% include youtube.html id="Zg9SUYd6MYA" width="200%" %}
+{% include video.liquid path="https://www.youtube.com/embed/Zg9SUYd6MYA" class="img-fluid rounded z-depth-1" %}
 
 ### 4 Next
 This was a fun project. It still requires a lot of improvements. If time permits, I would like to build a game of tag, with multiple MiBand controlled robots in gazebo -- would be cool!
