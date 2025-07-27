@@ -19,7 +19,7 @@ Toycathon, is an inter-ministerial initiative of the Indian government initiated
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/toycathon.jpeg" title="IROS Poster" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/toycathon.jpeg" title="IROS Poster" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
