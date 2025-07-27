@@ -1,200 +1,508 @@
 {
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sreejith Sasidharan",
+    "label": "Robotics Engineer & Autonomous Systems Specialist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "Robotics engineer with proven cross-disciplinary expertise in autonomous systems and product design. Currently developing Level 4 (L4) autonomous driving solutions for freight carriers. Additionally, I have professional and academic experience with deep learning algorithms and workflows in the computer vision domain. I have also done full-stack development of an award-winning social robot named Haksh-E from scratch. My passion for developing technologies with tangible real-world impact drives my interests. I am a lifelong learner who hopes to gain deeper insights that will enable me to make meaningful contributions toward this goal.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "IN",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "4lhc",
+        "url": "https://github.com/4lhc"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "https://www.linkedin.com/in/sreejith-sasidharan-2628b6155/",
+        "url": ""
+      },
+      {
+        "network": "Google Scholar",
+        "username": "https://scholar.google.com/citations?user=89uw-fEAAAAJ&hl=en",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Continental Autonomous Mobility India Private Limited",
+      "position": "Product Owner",
+      "url": "",
+      "startDate": "2024-08",
+      "endDate": "",
+      "summary": "Leads multi-modal sensor degradation for L4 autonomous driving perception stack.",
+      "highlights": ["Collaborated with stakeholders to define requirements" , "Developed research proof-of-concept", "Finally integrated into production system."]
+    },
+    {
+      "name": "Continental Autonomous Mobility India Private Limited",
+      "position": "Autonomous Driving Engineer",
+      "url": "",
+      "startDate": "2023-03",
+      "endDate": "2024-08",
+      "summary": "R&D of Perception algorithms.",
+      "highlights": [
+        "Developed perception algorithms for automotive camera & radar sensor degradations in L4 autonomous trucks",
+        "Reduced false positives in components further in the chain of effect",
+        "Developed adaptive L2+ lane association algorithms for both urban & highway driving scenarios",
+        "Improved existing KPIs"
+      ]
+    },
+    {
+      "name": "Amrita Multi Modal Applications and Human Computer Interaction Lab, Amrita University",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2021-12",
+      "endDate": "2023-03",
+      "summary": "Research focused on Human Robot Interaction & AI",
+      "highlights": [
+        "Developed Haksh-E social robot as a deployment-ready product from a research product",
+        "Refined computer vision and facial emotion detection algorithms to work on Jetson Nano",
+        "Co-authored grants for further development of HRI robots in Indian context"
+      ]
+    },
+    {
+      "name": "Amrita Multi Modal Applications and Human Computer Interaction Lab, Amrita University",
+      "position": "Research Intern",
+      "url": "",
+      "startDate": "2020-09",
+      "endDate": "2021-11",
+      "summary": "Research focused on Human Robot Interaction & AI",
+      "highlights": [
+        "Developed HAR system with modified CNN and Channel Spatial Bilinear Attention Frame on VGG16 backbone",
+        "Achieved generalizable classification accuracy",
+        "Co-authored multiple studies on human-robot interaction and product design",
+        "Developed autonomous social robot to teach proper handwashing habits to children"
+      ]
+    },
+    {
+      "name": "BAS3D Robotics and 3D Printing Competency Centre, India",
+      "position": "Director",
+      "url": "",
+      "startDate": "2017-05",
+      "endDate": "2019-07",
+      "summary": "Founding member",
+      "highlights": [
+        "Development of automation product design and rapid prototyping startup",
+        "Led daily operations and strategic development",
+        "Led R&D team to develop automated ID card storage system (ASRS) for Middle East market",
+        "Designed software subsystems",
+        "Created and validated ID card segmentation and data extraction ML model"
+      ]
+    },
+    {
+      "name": "CADD Centre, Kottayam, India",
+      "position": "Technical Leader",
+      "url": "",
+      "startDate": "2016-09",
+      "endDate": "2017-04",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "CADD Centre, Kottayam, India",
+      "position": "CAD Engineer",
+      "url": "",
+      "startDate": "2015-08",
+      "endDate": "2016-09",
+      "summary": "",
+      "highlights": []
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Niti Ayog Atal Innovation Mission",
+      "position": "Mentor of Change",
+      "url": "",
+      "startDate": "2021",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "IEEE",
+      "position": "STEM Ambassador, R10",
+      "url": "",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Amrita Vishwa Vidyapeetham",
+      "url": "",
+      "area": "Robotics and Automation",
+      "studyType": "M.Tech",
+      "startDate": "2019",
+      "endDate": "2021",
+      "score": "CGPA: 9.52",
+      "courses": ["Robot Kinematics", "Robot Dynamics", "Autonomous Mobile Robots", "AI/ML for Robotics"],
+      "summary": "M.Tech with Gold Medal in Robotics and Automation"
+    },
+    {
+      "institution": "CADD Centre",
+      "url": "",
+      "area": "Product Design and Analysis",
+      "studyType": "Master Diploma",
+      "startDate": "2014",
+      "endDate": "2015",
+      "score": "",
+      "courses": ["Product Design", "SolidWorks", "CATIA", "GD&T", "CAM", "CAE", "Ansys"]
+    },
+    {
+      "institution": "Cochin University of Science and Technology",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2009",
+      "endDate": "2013",
+      "score": "First Class",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Gold Medal",
+      "date": "2021",
+      "awarder": "Amrita Vishwa Vidyapeetham",
+      "summary": "M.Tech with Gold Medal in Robotics and Automation"
+    },
+
+    {
+      "title": "ATL Top Performing Mentor",
+      "date": "2022",
+      "awarder": "Niti Ayog | ATL",
+      "summary": "For being a top Performing and most popular mentor for students in ATL Tinkerprenuer 2022."
+    }
+    ,
+    {
+      "title": "IEEE STEM Ambassador, R10",
+      "date": "2022",
+      "awarder": "IEEE",
+      "summary": "For contributions towards STEM education & responsibility towards conducting STEM workshops in R10."
+
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Self-Driving Cars Specialization",
+      "date": "",
+      "issuer": "University of Toronto | Coursera",
+      "url": "https://coursera.org/share/58d091796bb630f8c1ca5bcc621200ca"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "TensorFlow Developer Professional Certificate",
+      "date": "",
+      "issuer": "DeepLearning.AI",
+      "url": "https://coursera.org/share/bcb2417eb839e9f962770bcdc2036441"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Deep Learning Specialization",
+      "date": "",
+      "issuer": "DeepLearning.AI",
+      "url": "https://coursera.org/share/1bf0be06a241d37d3d21741136286f7b"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "HAKSH-E: An Autonomous Social Robot for Promoting Good Hand Hygiene among Children",
+      "publisher": "IROS",
+      "releaseDate": "2021",
+      "url": "",
+      "summary": "Spotlight presentation at IROS 2021 Workshop - The Roles of Robotics in Achieving the UN's Social Development Goals"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Handwashing Detection System for an Autonomous Social Robot",
+      "publisher": "IEEE TENCON",
+      "releaseDate": "2022",
+      "url": "",
+      "summary": "IEEE TENCON, Hong Kong"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Co-designing the Embodiment of an Autonomous Social Robot to Encourage Hygienic Hand Washing Practises among Children in Community Settings",
+      "publisher": "International Journal of Social Robotics, Springer",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": "IJSR"
+    },
+    {
+      "name": "A Minimalist Social Robot Platform for Promoting Positive Behavior Change Among Children",
+      "publisher": "ACM SIGGRAPH",
+      "releaseDate": "2022",
+      "url": "",
+      "summary": "ACM SIGGRAPH 2022 Educator's Forum"
+    },
+    {
+      "name": "Exploring Collaborative Game Play with Robots to Encourage Good Hand Hygiene Practises among Children",
+      "publisher": "31st IEEE International Conference on Robot & Human Interactive Communication",
+      "releaseDate": "2022",
+      "url": "",
+      "summary": "Ro-MAN"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Robotics & Autonomous Driving",
+      "level": "Expert",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "ROS1/2",
+        "eCAL middlewares",
+        "Gazebo with MoveIT",
+        "CARLA",
+        "rviz",
+        "foxglove",
+        "Robot Kinematics & Dynamics",
+        "Sensors & Actuator control",
+        "SLAM",
+        "AVR & ARM Cortex C"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "Expert",
+      "keywords": [
+        "C++",
+        "Python",
+        "OOP",
+        "Memory management",
+        "Performance optimization",
+        "Linux",
+        "Shell scripting",
+        "TDD",
+        "gtest",
+        "unittest",
+        "Git",
+        "Build systems",
+        "Helix QAC",
+        "Doxygen"
+      ]
+    },
+    {
+      "name": "Product Design & Prototyping",
+      "level": "Expert",
+      "keywords": [
+        "CAD",
+        "Rapid prototyping",
+        "DFM/A",
+        "HMI",
+        "SolidWorks",
+        "KiCad EDA"
+      ]
+    },
+    {
+      "name": "AI/ML",
+      "level": "Advanced",
+      "keywords": [
+        "Machine Learning",
+        "Deep Learning",
+        "TensorFlow",
+        "Keras",
+        "LLMs",
+        "VLMs",
+        "VLAs"
+      ]
+    },
+    {
+      "name": "Organizational",
+      "level": "Advanced",
+      "keywords": [
+        "Team Management",
+        "Goal setting & Planning",
+        "Employee Training",
+        "Public Speaking",
+        "Presentation Skills",
+        "Agile methodologies",
+        "KMS"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "Malayalam",
+      "fluency": "Native"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
+      "fluency": "Professional"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Conversational"
+    },
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Autonomous Systems",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Self-driving cars",
+        "Robotic Learning",
+        "Robot Foundation Models"
+      ]
+    },
+    {
+      "name": "Product Design",
+      "keywords": [
+        "Mechanical CAD",
+        "3D Printing",
+        "PCB Design",
+        "MCU programming"
       ]
     }
   ],
   "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "European Rover Challenge (ERC2021)",
+      "description": "As part of Amrita University's ERC2021 team Astra, developed ros packages to teleoperate a real mars rover replica in Mars Yard, Poland",
+      "highlights": [
+        "ROS development support for autonomous mars rover navigation",
+        "Developed MoveIt packages for manipulation tasks"
+      ],
+      "keywords": [
+        "ROS",
+        "Autonomous navigation",
+        "MoveIt"
+      ],
+      "startDate": "2021-01",
+      "endDate": "2021-08",
+      "url": "",
+      "roles": [
+      ],
+      "entity": "European Space Foundation",
+      "type": "competition"
+    },
+    {
+      "name": "Flipkart Grid 2.0 Robotics Challenge",
+      "description": "Cable driven warehouse robot design.",
+      "highlights": [
+        "Designed low cost cable driven parallel robot",
+        "Implemented intelligent pick and place operations",
+        "Used Dex-Net 2.0 for optimal grasp identification",
+        "Selected for semi-finals"
+      ],
+      "keywords": [
+        "Robotics",
+        "Cable driven robot",
+        "Dex-Net 2.0",
+        "Pick and place"
+      ],
+      "startDate": "2020-06",
+      "endDate": "2020-09",
+      "url": "",
+      "roles": [
+        "Robot Designer"
+      ],
+      "entity": "Flipkart",
+      "type": "competition"
+    },
+    {
+      "name": "TWIP Self-Balancing Robot with ARM Cortex-M4 MCU",
+      "description": "",
+      "highlights": [
+        "Designed and built self-balancing robot",
+        "Used ARM Cortex-M4 MCU",
+        "Implemented control systems"
+      ],
+      "keywords": [
+        "Self-balancing robot",
+        "ARM Cortex-M4",
+        "Control systems",
+        "Embedded systems"
+      ],
+      "startDate": "2019-11",
+      "endDate": "2019-11",
+      "url": "",
+      "roles": [
+        "Designer",
+        "Developer"
+      ],
+      "entity": "Amrita University",
+      "type": "competition"
+    },
+    {
+      "name": "Visual Inspection of Elevator Cables Using OpenCV",
+      "description": "Computer vision project for automated visual inspection of elevator cables.",
+      "highlights": [
+        "Implemented computer vision algorithms",
+        "Automated visual inspection system"
+      ],
+      "keywords": [
+        "OpenCV",
+        "Computer vision",
+        "Visual inspection"
+      ],
+      "startDate": "2018-04",
+      "endDate": "2018-04",
+      "url": "",
+      "roles": [
+      ],
+      "entity": "",
+      "type": "Hobby project"
+    },
+    {
+      "name": "A Wristband Based Teleop ROS Library for Mobile Robots",
+      "description": "Developed a ROS library for teleoperation of mobile robots using wristband interface.",
+      "highlights": [
+        "Developed ROS teleoperation library",
+        "Implemented wristband-based control interface"
+      ],
+      "keywords": [
+        "ROS",
+        "Teleoperation",
+        "Mobile robots",
+        "Wearable interface"
+      ],
+      "startDate": "2019-09",
+      "endDate": "2019-09",
+      "url": "",
+      "roles": [
+        "Software Developer"
+      ],
+      "entity": "",
+      "type": "hobby project"
+    },
+    {
+      "name": "Kinematic Design and Analysis of a Mechanical Quadraped Walking Gait",
+      "description": "Bachelor's thesis project: Designed, optimized & fabricated a working prototype of a quadruped gait simulation mechanism based on Klann Linkage with application in robotics and exploration vehicles. Developed mathematical model & MATLAB simulation.",
+      "highlights": [
+        "Designed and optimized quadruped walking mechanism",
+        "Based on Klann Linkage",
+        "Fabricated working prototype",
+        "Developed mathematical model and MATLAB simulation"
+      ],
+      "keywords": [
+        "Quadruped robot",
+        "Klann Linkage",
+        "Kinematics",
+        "MATLAB",
+        "Mechanical design"
+      ],
+      "startDate": "2012-12",
+      "endDate": "2013-02",
+      "url": "",
+      "roles": [
+        "Researcher",
+        "Designer"
+      ],
+      "entity": "Cochin University of Science and Technology",
+      "type": "thesis"
     }
-  ]
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2025-01-27T00:00:00.000Z"
+  }
 }
